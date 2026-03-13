@@ -808,20 +808,20 @@ const DiscussionsPage = () => {
                   </div>
                   <div className="flex items-center justify-between mt-3 flex-wrap gap-3">
                     <div className="flex items-center gap-3">
-                      <div className="relative">
+                     <div className="relative">
                         <select
                           value={globalCategory}
                           onChange={(e) => setGlobalCategory(e.target.value)}
-                          className="appearance-none pl-3 pr-8 py-2 bg-input border border-border rounded-lg text-sm text-muted focus:outline-none focus:ring-2 focus:ring-orange-500 cursor-pointer"
+                          className="appearance-none pl-4 pr-10 py-2 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white font-semibold rounded-lg shadow-lg focus:outline-none focus:ring-2 focus:ring-orange-500 cursor-pointer transition duration-300 ease-in-out" 
                         >
-                          <option value="">{t("discussions.select_category")}</option>
+                          <option value="" className="bg-card text-main font-semibold">Select Category *</option>
                           {GLOBAL_CATEGORIES.map((c) => (
-                            <option key={c} value={c}>
-                              {getCategoryLabel(c)}
+                            <option key={c} value={c} className="bg-card text-main font-semibold">
+                              {c}
                             </option>
                           ))}
                         </select>
-                        <ChevronDown className="w-4 h-4 text-muted absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none" />
+                        <ChevronDown className="w-4 h-4 text-white/80 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none" />
                       </div>
                       <span
                         className={`text-sm ${
