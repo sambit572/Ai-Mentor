@@ -997,5 +997,1305 @@
         ]
       }
     }
+  },
+  "6": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Python Foundations",
+        "lessons": [
+          {
+            "id": "py-basics-1-1",
+            "title": "What is Python?",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Y8Tko2YC5hA"
+          },
+          {
+            "id": "py-basics-1-2",
+            "title": "Variables & Data Types",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=cQT33yu9pY8"
+          },
+          {
+            "id": "py-basics-1-3",
+            "title": "Control Flow",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=DZwmZ8Usvnk"
+          },
+          {
+            "id": "py-basics-1-4",
+            "title": "Functions",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=9Os0o3wzS_I"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: OOP & Modules",
+        "lessons": [
+          {
+            "id": "py-basics-2-1",
+            "title": "Classes & Objects",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=apACNr7DC_s"
+          },
+          {
+            "id": "py-basics-2-2",
+            "title": "Inheritance",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Cn7AkDb4pIU"
+          },
+          {
+            "id": "py-basics-2-3",
+            "title": "Built-in Modules",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=CqvZ3vGoGs0"
+          },
+          {
+            "id": "py-basics-2-4",
+            "title": "File I/O",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=aequTxAvQq4"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Practical Python",
+        "lessons": [
+          {
+            "id": "py-basics-3-1",
+            "title": "Web Scraping Basics",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=XVv6mJpFOb0"
+          },
+          {
+            "id": "py-basics-3-2",
+            "title": "Working with APIs",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=pxofwuWTs7c"
+          },
+          {
+            "id": "py-basics-3-3",
+            "title": "Error Handling",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=NIWwJbo-9_8"
+          },
+          {
+            "id": "py-basics-3-4",
+            "title": "Virtual Environments",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=KxvKCSwlUv8"
+          }
+        ]
+      }
+    ]
+  },
+  "7": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Advanced OOP",
+        "lessons": [
+          {
+            "id": "adv-py-1-1",
+            "title": "Metaclasses",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=cKPlPJyQrt4"
+          },
+          {
+            "id": "adv-py-1-2",
+            "title": "Descriptors",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=mMbVs17Vmo4"
+          },
+          {
+            "id": "adv-py-1-3",
+            "title": "Abstract Base Classes",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=PkMNo8NHgf4"
+          },
+          {
+            "id": "adv-py-1-4",
+            "title": "Magic Methods",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=z7X6jgkFa6s"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Concurrency",
+        "lessons": [
+          {
+            "id": "adv-py-2-1",
+            "title": "Threading",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=IEEhzQoKtQU"
+          },
+          {
+            "id": "adv-py-2-2",
+            "title": "Multiprocessing",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=fKl2JW_qrso"
+          },
+          {
+            "id": "adv-py-2-3",
+            "title": "asyncio",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=t5Bo1Je9EmE"
+          },
+          {
+            "id": "adv-py-2-4",
+            "title": "Profiling",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=8qEnExGLZfY"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Packaging & Patterns",
+        "lessons": [
+          {
+            "id": "adv-py-3-1",
+            "title": "Design Patterns",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=bsyjSW46TDg"
+          },
+          {
+            "id": "adv-py-3-2",
+            "title": "Packaging with Poetry",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=547Jr26duHQ"
+          },
+          {
+            "id": "adv-py-3-3",
+            "title": "Unit Testing with pytest",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=cHYq1MRoyI0"
+          },
+          {
+            "id": "adv-py-3-4",
+            "title": "CI/CD for Python",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=WTofttoD2xg"
+          }
+        ]
+      }
+    ]
+  },
+  "8": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Project Setup",
+        "lessons": [
+          {
+            "id": "react-proj-1-1",
+            "title": "Project Architecture",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=b9eMGE7QtTk"
+          },
+          {
+            "id": "react-proj-1-2",
+            "title": "ESLint & Prettier",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=ZXW6Jn6or1w"
+          },
+          {
+            "id": "react-proj-1-3",
+            "title": "Component Design",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=5RTSlby-l9w"
+          },
+          {
+            "id": "react-proj-1-4",
+            "title": "Routing Setup",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Law7wfdg_ls"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Core Projects",
+        "lessons": [
+          {
+            "id": "react-proj-2-1",
+            "title": "Task Manager App",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=W6HnKNFM3oQ"
+          },
+          {
+            "id": "react-proj-2-2",
+            "title": "E-Commerce Listing",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=RVFAyFWO4go"
+          },
+          {
+            "id": "react-proj-2-3",
+            "title": "Weather Dashboard",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=GuA0_Z1llYU"
+          },
+          {
+            "id": "react-proj-2-4",
+            "title": "API Integration",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=T3Px88x_PsA"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Advanced Projects",
+        "lessons": [
+          {
+            "id": "react-proj-3-1",
+            "title": "Blog with Firebase",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=9kRgVxULbag"
+          },
+          {
+            "id": "react-proj-3-2",
+            "title": "Chat App WebSockets",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=ZKEqqIO7n-k"
+          },
+          {
+            "id": "react-proj-3-3",
+            "title": "Animations with Framer Motion",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=2V1WK-3HQNk"
+          },
+          {
+            "id": "react-proj-3-4",
+            "title": "Deploy to Vercel",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=UrZ9RKgnWbQ"
+          }
+        ]
+      }
+    ]
+  },
+  "9": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Data Science Foundations",
+        "lessons": [
+          {
+            "id": "ds-intro-1-1",
+            "title": "What is Data Science?",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=X3paOmcrTjQ"
+          },
+          {
+            "id": "ds-intro-1-2",
+            "title": "Setting up Jupyter",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=HW29067qVWk"
+          },
+          {
+            "id": "ds-intro-1-3",
+            "title": "Intro to NumPy",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=QUT1VHiLmmI"
+          },
+          {
+            "id": "ds-intro-1-4",
+            "title": "Exploring CSV Data",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=vmEHCJofslg"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Data Manipulation",
+        "lessons": [
+          {
+            "id": "ds-intro-2-1",
+            "title": "Pandas DataFrames",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=dcqPhpY7tWk"
+          },
+          {
+            "id": "ds-intro-2-2",
+            "title": "Data Cleaning",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=bDhvCp3_lYw"
+          },
+          {
+            "id": "ds-intro-2-3",
+            "title": "Merging & Grouping",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=iYWKfUOtGaw"
+          },
+          {
+            "id": "ds-intro-2-4",
+            "title": "Handling Missing Values",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=P_q0tkYqvSk"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Visualization",
+        "lessons": [
+          {
+            "id": "ds-intro-3-1",
+            "title": "Matplotlib Basics",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=3Xc3CA655Y4"
+          },
+          {
+            "id": "ds-intro-3-2",
+            "title": "Seaborn Charts",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=6GUZXDef2U0"
+          },
+          {
+            "id": "ds-intro-3-3",
+            "title": "Correlation Analysis",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=xTlNn3qZG0k"
+          },
+          {
+            "id": "ds-intro-3-4",
+            "title": "Interactive Plotly",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=GGL6U0k8WYA"
+          }
+        ]
+      }
+    ]
+  },
+  "10": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Advanced Pandas",
+        "lessons": [
+          {
+            "id": "da-py-1-1",
+            "title": "MultiIndex DataFrames",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=tcRGa2soc-c"
+          },
+          {
+            "id": "da-py-1-2",
+            "title": "Complex GroupBy",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=txMdrV1Ut64"
+          },
+          {
+            "id": "da-py-1-3",
+            "title": "DateTime Manipulation",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=UFuo7EHI8zc"
+          },
+          {
+            "id": "da-py-1-4",
+            "title": "Performance Optimization",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=U1ai_FF-aX0"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Statistical Modeling",
+        "lessons": [
+          {
+            "id": "da-py-2-1",
+            "title": "Linear Regression",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=NUXdtN1W1FE"
+          },
+          {
+            "id": "da-py-2-2",
+            "title": "Logistic Regression",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=yIYKR4sgzI8"
+          },
+          {
+            "id": "da-py-2-3",
+            "title": "Hypothesis Testing",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=0zZYBALbZgg"
+          },
+          {
+            "id": "da-py-2-4",
+            "title": "Scipy Statistics",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=kvwZiVCTnSY"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Advanced Visualization",
+        "lessons": [
+          {
+            "id": "da-py-3-1",
+            "title": "Plotly Interactive Charts",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=GGL6U0k8WYA"
+          },
+          {
+            "id": "da-py-3-2",
+            "title": "Dash Dashboards",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=hSPmj7mK6ng"
+          },
+          {
+            "id": "da-py-3-3",
+            "title": "Geospatial with Folium",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=4RnU5qKTfYY"
+          },
+          {
+            "id": "da-py-3-4",
+            "title": "Reporting Automation",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=77jIzgvCIYY"
+          }
+        ]
+      }
+    ]
+  },
+  "11": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Responsible AI Principles",
+        "lessons": [
+          {
+            "id": "resp-ai-1-1",
+            "title": "What is Responsible AI?",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=aR5N2Jl8k14"
+          },
+          {
+            "id": "resp-ai-1-2",
+            "title": "Fairness & Accountability",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=59bMh59JQDo"
+          },
+          {
+            "id": "resp-ai-1-3",
+            "title": "Transparency in AI",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Vo_6vt2pFM4"
+          },
+          {
+            "id": "resp-ai-1-4",
+            "title": "EU AI Act Overview",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=d9DYan13YtI"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Bias & Fairness",
+        "lessons": [
+          {
+            "id": "resp-ai-2-1",
+            "title": "Types of AI Bias",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=59bMh59JQDo"
+          },
+          {
+            "id": "resp-ai-2-2",
+            "title": "Fairness Metrics",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=jIXIuYdnyyk"
+          },
+          {
+            "id": "resp-ai-2-3",
+            "title": "Debiasing Techniques",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=UG_X_7g63rY"
+          },
+          {
+            "id": "resp-ai-2-4",
+            "title": "Dataset Auditing",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Vo_6vt2pFM4"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Safe Deployment",
+        "lessons": [
+          {
+            "id": "resp-ai-3-1",
+            "title": "Model Cards",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=aR5N2Jl8k14"
+          },
+          {
+            "id": "resp-ai-3-2",
+            "title": "Explainability with SHAP",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=9haIOplEIGM"
+          },
+          {
+            "id": "resp-ai-3-3",
+            "title": "Human-in-the-Loop",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=d9DYan13YtI"
+          },
+          {
+            "id": "resp-ai-3-4",
+            "title": "Incident Response for AI",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=59bMh59JQDo"
+          }
+        ]
+      }
+    ]
+  },
+  "12": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Security Foundations",
+        "lessons": [
+          {
+            "id": "cyber-1-1",
+            "title": "CIA Triad",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=AJTJN4wDBM8"
+          },
+          {
+            "id": "cyber-1-2",
+            "title": "Types of Attacks",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=GqGT5oaZtzM"
+          },
+          {
+            "id": "cyber-1-3",
+            "title": "Networking for Security",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=qiQR5rTSshw"
+          },
+          {
+            "id": "cyber-1-4",
+            "title": "Security Policies",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=inWWhr5tnEA"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Network Security",
+        "lessons": [
+          {
+            "id": "cyber-2-1",
+            "title": "Firewalls & IDS",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=kDEX1HXybrU"
+          },
+          {
+            "id": "cyber-2-2",
+            "title": "VPNs & Encryption",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=yCN9pV5mFg4"
+          },
+          {
+            "id": "cyber-2-3",
+            "title": "Hardening OS",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=E03gh1huvW4"
+          },
+          {
+            "id": "cyber-2-4",
+            "title": "Vulnerability Scanning with Nmap",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=4t4kBkMsDbQ"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Crypto & Compliance",
+        "lessons": [
+          {
+            "id": "cyber-3-1",
+            "title": "Symmetric Encryption",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=AQDCe585Lnc"
+          },
+          {
+            "id": "cyber-3-2",
+            "title": "PKI & Certificates",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=i-rtxrEz_E8"
+          },
+          {
+            "id": "cyber-3-3",
+            "title": "GDPR Basics",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=j6s2Lf-3Kxw"
+          },
+          {
+            "id": "cyber-3-4",
+            "title": "Incident Response",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=kDEX1HXybrU"
+          }
+        ]
+      }
+    ]
+  },
+  "13": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Pentest Methodology",
+        "lessons": [
+          {
+            "id": "ethack-1-1",
+            "title": "Phases of Penetration Testing",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+          },
+          {
+            "id": "ethack-1-2",
+            "title": "Legal & Ethical Considerations",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=inWWhr5tnEA"
+          },
+          {
+            "id": "ethack-1-3",
+            "title": "Reconnaissance",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Kx04IUn8MLA"
+          },
+          {
+            "id": "ethack-1-4",
+            "title": "OSINT Techniques",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=qwA6MmbeGNo"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Exploitation",
+        "lessons": [
+          {
+            "id": "ethack-2-1",
+            "title": "Network Scanning",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=4t4kBkMsDbQ"
+          },
+          {
+            "id": "ethack-2-2",
+            "title": "Metasploit Framework",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=8lR27r8Y3oe"
+          },
+          {
+            "id": "ethack-2-3",
+            "title": "Password Cracking",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=7U-RbOKanYs"
+          },
+          {
+            "id": "ethack-2-4",
+            "title": "Web App Attacks",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=WF_IRcPyOBo"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: Advanced Pentest",
+        "lessons": [
+          {
+            "id": "ethack-3-1",
+            "title": "Privilege Escalation",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=yZYCBiIGMM4"
+          },
+          {
+            "id": "ethack-3-2",
+            "title": "Post Exploitation",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+          },
+          {
+            "id": "ethack-3-3",
+            "title": "Writing Pentest Reports",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Kx04IUn8MLA"
+          },
+          {
+            "id": "ethack-3-4",
+            "title": "Remediation Guidance",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=inWWhr5tnEA"
+          }
+        ]
+      }
+    ]
+  },
+  "14": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: What is AI?",
+        "lessons": [
+          {
+            "id": "ai-fund-1-1",
+            "title": "History of AI",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=ad79nYk2keg"
+          },
+          {
+            "id": "ai-fund-1-2",
+            "title": "AI vs ML vs Deep Learning",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=4RnU5qKTfYY"
+          },
+          {
+            "id": "ai-fund-1-3",
+            "title": "Types of AI Systems",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=oV74Najm6Nc"
+          },
+          {
+            "id": "ai-fund-1-4",
+            "title": "Current AI Landscape",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=5q87K1WaoFI"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Machine Learning Basics",
+        "lessons": [
+          {
+            "id": "ai-fund-2-1",
+            "title": "Supervised Learning",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=1FZ0A1QCMWc"
+          },
+          {
+            "id": "ai-fund-2-2",
+            "title": "Unsupervised Learning",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=jAA2g9ItoAc"
+          },
+          {
+            "id": "ai-fund-2-3",
+            "title": "Neural Networks Intro",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=aircAruvnKk"
+          },
+          {
+            "id": "ai-fund-2-4",
+            "title": "Training a Model",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Ilg3gGewQ5U"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: AI in the Real World",
+        "lessons": [
+          {
+            "id": "ai-fund-3-1",
+            "title": "AI in Healthcare",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=ot9_Q0mA4AY"
+          },
+          {
+            "id": "ai-fund-3-2",
+            "title": "Prompt Engineering",
+            "duration": "12 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=T9aRN5JkmL8"
+          },
+          {
+            "id": "ai-fund-3-3",
+            "title": "Using ChatGPT",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=JTxsNm9IdYU"
+          },
+          {
+            "id": "ai-fund-3-4",
+            "title": "Future of AI",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=5q87K1WaoFI"
+          }
+        ]
+      }
+    ]
+  },
+  "5": {
+    "modules": [
+      {
+        "id": "module-1",
+        "title": "Module 1: Getting Started with React Native",
+        "lessons": [
+          {
+            "id": "what-is-react-native",
+            "title": "What is React Native?",
+            "duration": "10 min",
+            "completed": false,
+            "playing": true,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=0-S5a0eXPoc"
+          },
+          {
+            "id": "setting-up-expo",
+            "title": "Setting Up Expo & Dev Environment",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=oBWBDaqx50E"
+          },
+          {
+            "id": "core-components",
+            "title": "Core Components: View, Text, Image",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Hf4MJH0jDb4"
+          },
+          {
+            "id": "styling-flexbox",
+            "title": "Styling with StyleSheet & Flexbox",
+            "duration": "18 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=R2eqAgR_KlU"
+          }
+        ]
+      },
+      {
+        "id": "module-2",
+        "title": "Module 2: Navigation & State Management",
+        "lessons": [
+          {
+            "id": "react-navigation-intro",
+            "title": "React Navigation Introduction",
+            "duration": "15 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=nQVCkqvU1uE"
+          },
+          {
+            "id": "stack-tab-navigator",
+            "title": "Stack & Tab Navigators",
+            "duration": "20 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=OmQCU-3KPms"
+          },
+          {
+            "id": "hooks-state",
+            "title": "useState & useEffect Hooks",
+            "duration": "17 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=lAW1Jmmr9hc"
+          },
+          {
+            "id": "context-api",
+            "title": "Context API for Global State",
+            "duration": "19 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=UbLYdbOPLe8"
+          }
+        ]
+      },
+      {
+        "id": "module-3",
+        "title": "Module 3: APIs, Storage & Deployment",
+        "lessons": [
+          {
+            "id": "fetch-api",
+            "title": "Fetching Data with Axios",
+            "duration": "16 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=Gl-vOU7ZU9A"
+          },
+          {
+            "id": "async-storage",
+            "title": "AsyncStorage for Local Persistence",
+            "duration": "14 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=nUHPMckN7ck"
+          },
+          {
+            "id": "push-notifications",
+            "title": "Push Notifications with Expo",
+            "duration": "18 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=W8DMO4_bsE4"
+          },
+          {
+            "id": "deployment-eas",
+            "title": "Deploying with EAS Build",
+            "duration": "22 min",
+            "completed": false,
+            "playing": false,
+            "type": "video",
+            "youtubeUrl": "https://www.youtube.com/watch?v=oBWBDaqx50E"
+          }
+        ]
+      }
+    ]
   }
 }
