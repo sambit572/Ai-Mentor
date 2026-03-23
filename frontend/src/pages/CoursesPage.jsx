@@ -472,7 +472,7 @@ const CoursesPage = () => {
                 )}
 
                 {/* Course Grid */}
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                   {filteredExplore.map((course) => (
                     <div
                       key={course.id}
@@ -484,7 +484,7 @@ const CoursesPage = () => {
                           className="w-full h-full object-cover"
                           alt={course.title}
                         />
-                        <div className="absolute bottom-3 right-3 bg-white px-2 py-1 rounded-full text-xs font-semibold flex items-center gap-1 shadow">
+                        <div className="absolute bottom-3 right-3 bg-white px-2 py-1 rounded-full text-xs font-semibold flex items-center gap-1 shadow text-gray-800">
                           <Star className="w-3 h-3 text-yellow-400 fill-yellow-400" />
                           {course.rating}
                         </div>
@@ -495,8 +495,8 @@ const CoursesPage = () => {
                         </span>
                       </div>
 
-                      <div className="p-4 space-y-3">
-                        <h3 className="text-sm font-semibold text-main leading-snug">
+                      <div className="p-5 space-y-3">
+                        <h3 className="text-base font-semibold text-main leading-snug">
                           {course.title}
                         </h3>
                         <p className="text-xs text-muted">
